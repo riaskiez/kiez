@@ -6,7 +6,7 @@ Resultate und Präsentationen der abgeschlossenen Beteiligung 01.04. und 30.04.2
 
 
 ## [Interaktive Karte mit Anmerkungen](https://umap.openstreetmap.fr/de/map/riaskiez_705676)  
-<a href="https://umap.openstreetmap.fr/de/map/schulwegsicherung-im-rias-kiez_705676#16/52.482205/13.338432"><img src="https://raw.githubusercontent.com/riaskiez/kiez/main//RIAS-Übersicht - Version 2.0.1 mit Legende.png" width=150></a>
+<a href="https://umap.openstreetmap.fr/de/map/schulwegsicherung-im-rias-kiez_705676#16/52.482205/13.338432"><img src="https://raw.githubusercontent.com/riaskiez/kiez/main/RIAS-%C3%9Cbersicht%20-%20Version%202.0.1%20mit%20Legende.png" width=150></a>
 
 
 ## Statische Karte der geplanten Maßnahmen zur Schulwegsicherung im RIAS-Kiez
